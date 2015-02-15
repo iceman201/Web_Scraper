@@ -4,6 +4,7 @@ A concurrent web scraper which downloads all linked files for a particular websi
 The task is split into three parts which should each be completed in turn, then the final task will build on the first two to complete the web scraper.
 
 Guidelines:
+
  No global variables (at all)
 
  No more than 3 levels of nesting in any function and less than 40 lines of code
